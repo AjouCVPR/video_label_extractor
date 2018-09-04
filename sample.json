@@ -1,0 +1,86 @@
+[
+  {
+    'label': 'person',
+    'confidence': 0.0,
+    'topleft': {
+      'x': 89,
+      'y': 127
+    },
+    'bottomright': {
+      'x': 541,
+      'y': 399
+    }
+  },
+  {
+    'label': 'person',
+    'confidence': 0.0,
+    'topleft': {
+      'x': 58,
+      'y': 105
+    },
+    'bottomright': {
+      'x': 607,
+      'y': 425
+    }
+  },
+  {
+    'label': 'bicycle',
+    'confidence': 0.84797907,
+    'topleft': {
+      'x': 80,
+      'y': 113
+    },
+    'bottomright': {
+      'x': 555,
+      'y': 467
+    }
+  },
+  {
+    'label': 'person',
+    'confidence': 0.0,
+    'topleft': {
+      'x': 454,
+      'y': 65
+    },
+    'bottomright': {
+      'x': 697,
+      'y': 172
+    }
+  },
+  {
+    'label': 'truck',
+    'confidence': 0.8014204,
+    'topleft': {
+      'x': 462,
+      'y': 81
+    },
+    'bottomright': {
+      'x': 694,
+      'y': 167
+    }
+  },
+  {
+    'label': 'person',
+    'confidence': 0.0,
+    'topleft': {
+      'x': 139,
+      'y': 197
+    },
+    'bottomright': {
+      'x': 313,
+      'y': 551
+    }
+  },
+  {
+    'label': 'dog',
+    'confidence': 0.770815,
+    'topleft': {
+      'x': 136,
+      'y': 214
+    },
+    'bottomright': {
+      'x': 322,
+      'y': 539
+    }
+  }
+]
