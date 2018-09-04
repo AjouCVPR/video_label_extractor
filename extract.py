@@ -41,6 +41,9 @@ def extract_detection_data_from_image(img):
         obj['height'] = int(obj['bottomright']['y'] - obj['topleft']['y'])
         obj['width'] = int(obj['bottomright']['x'] - obj['topleft']['x'])
 
+        obj.pop('topleft')
+        obj.pop('bottomright')
+
         result_dict[label].append(obj)
 
     return result_dict
