@@ -26,7 +26,7 @@ Markdown==2.6.11
 matplotlib==2.1.2
 mock==2.0.0
 moviepy==0.2.3.2
-numpy==1.14.0
+numpy==1.22.0
 opencv-contrib-python==3.4.0.12
 opencv-python==3.4.0.12
 pandas==0.22.0
